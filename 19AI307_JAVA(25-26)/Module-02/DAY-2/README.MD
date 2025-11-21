@@ -34,8 +34,8 @@ To create a Java class with one static method and one non-static method, and dem
  ```
 /*
 Program to implement a Methods using Java
-Developed by: KAVIYA D
-RegisterNumber: 212223040089
+Developed by: RAGUL RAAJAN T
+RegisterNumber: 212223100043
 */
 ```
 

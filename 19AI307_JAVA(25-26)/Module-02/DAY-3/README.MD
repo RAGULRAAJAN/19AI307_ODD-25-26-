@@ -77,8 +77,8 @@ To create a Smartphone class with private attributes and methods to access, modi
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: KAVIYA D
-RegisterNumber: 212223040089
+Developed by: RAGUL RAAJAN T
+RegisterNumber: 212223100043
 */
 ```
 

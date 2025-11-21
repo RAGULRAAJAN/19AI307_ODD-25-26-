@@ -38,8 +38,8 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: KAVIYA D
-Register Number: 212223040089
+Developed by: RAGUL RAAJAN T
+RegisterNumber: 212223100043
 */
 ```
 
